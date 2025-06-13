@@ -1,6 +1,8 @@
 # pchreg
 Piecewise constant hazard models Use pchreg (pch) With (In) R Software
 
+https://www.youtube.com/watch?v=7AcYy-TxrPE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
